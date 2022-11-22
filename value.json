@@ -1,0 +1,252 @@
+{
+  "IP": "192.168.56.1",
+  "PORT": 9050,
+  "PACKETS": [
+    {
+      "PacketName": "Packet1",
+      "ID": 1,
+      "Values": [
+        {
+          "name": "Limit",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 55000,
+            "String": null
+          }
+        },
+        {
+          "name": "Counter",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 23,
+            "String": null
+          }
+        },
+        {
+          "name": "StringOrnek",
+          "type": "String",
+          "value": {
+            "Bool": null,
+            "Integer": null,
+            "String": "Merhaba"
+          }
+        },
+        {
+          "name": "StringOrnek2",
+          "type": "String",
+          "value": {
+            "Bool": null,
+            "Integer": null,
+            "String": "Hi"
+          }
+        },
+        {
+          "name": "Price",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 2500,
+            "String": null
+          }
+        },
+        {
+          "name": "Sale",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 5560,
+            "String": null
+          }
+        },
+        {
+          "name": "Counter2",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 2222,
+            "String": null
+          }
+        },
+        {
+          "name": "deneme1",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 33,
+            "String": null
+          }
+        },
+        {
+          "name": "deneme",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 23,
+            "String": null
+          }
+        }
+      ]
+    },
+    {
+      "PacketName": "Packet2",
+      "ID": 2,
+      "Values": [
+        {
+          "name": "StringOrnek4",
+          "type": "String",
+          "value": {
+            "Bool": null,
+            "Integer": null,
+            "String": "Udp Test"
+          }
+        },
+        {
+          "name": "StringOrnek5",
+          "type": "String",
+          "value": {
+            "Bool": null,
+            "Integer": null,
+            "String": "C Sharp"
+          }
+        }
+      ]
+    },
+    {
+      "PacketName": "Packet3",
+      "ID": 3,
+      "Values": [
+        {
+          "name": "NumberOrnek",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 55,
+            "String": null
+          }
+        },
+        {
+          "name": "NumberOrnek2",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 75,
+            "String": null
+          }
+        }
+      ]
+    },
+    {
+      "PacketName": "Packet4",
+      "ID": 4,
+      "Values": [
+        {
+          "name": "StringOrnek6",
+          "type": "String",
+          "value": {
+            "Bool": null,
+            "Integer": null,
+            "String": "Recieverr"
+          }
+        }
+      ]
+    },
+    {
+      "PacketName": "Packet5",
+      "ID": 5,
+      "Values": [
+        {
+          "name": "NumberOrnek4",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 999,
+            "String": null
+          }
+        },
+        {
+          "name": "NumberOrnek5",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 17,
+            "String": null
+          }
+        },
+        {
+          "name": "NumberOrnek6",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 111,
+            "String": null
+          }
+        }
+      ]
+    },
+    {
+      "PacketName": "Packet7",
+      "ID": 7,
+      "Values": [
+        {
+          "name": "denemeString",
+          "type": "String",
+          "value": {
+            "Bool": null,
+            "Integer": null,
+            "String": "deneme"
+          }
+        }
+      ]
+    },
+    {
+      "PacketName": "Packet8",
+      "ID": 8,
+      "Values": [
+        {
+          "name": "boolValueOrnek",
+          "type": "bool",
+          "value": {
+            "Bool": false,
+            "Integer": null,
+            "String": null
+          }
+        },
+        {
+          "name": "boolValueOrnek2",
+          "type": "bool",
+          "value": {
+            "Bool": true,
+            "Integer": null,
+            "String": null
+          }
+        },
+        {
+          "name": "deneme",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 33,
+            "String": null
+          }
+        }
+      ]
+    },
+    {
+      "PacketName": "Packet9",
+      "ID": 9,
+      "Values": [
+        {
+          "name": "counter",
+          "type": "int32",
+          "value": {
+            "Bool": null,
+            "Integer": 335,
+            "String": null
+          }
+        }
+      ]
+    }
+  ]
+}
